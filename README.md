@@ -38,7 +38,7 @@ Enhanced Security: Only verified affiliate users gain access, protecting the exc
 Efficiency: Automated queue management ensures timely and orderly processing of requests.
 User Experience: Clear communication of queue status and estimated response times improve user satisfaction.
 Scalability: The bot can handle a large number of requests efficiently, making it ideal for growing your affiliate base.
-##Let The Bot Work For You
+## Let The Bot Work For You
 Get started with our automated bot and enjoy a one-month free trial! To set up the bot for your Quotex affiliate program, follow this link: [Fiverr Bot Setup](https://www.fiverr.com/s/0yDLKr) or contact us on Telegram: [Telegram Bot Developer](https://telegram.me/tradingbot_developer).
 
 Let's streamline your Quotex affiliate experience with this efficient and effective solution. Start using our bot today and see the difference it makes!
