@@ -44,4 +44,4 @@ Our bot ensures exclusive access for your affiliate users while maintaining stri
 
 Let's streamline your Quotex affiliate experience with this efficient and effective solution. Start using our bot today and see the difference it makes!
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8zG6RR-qoz4/0.jpg)](https://www.youtube.com/watch?v=8zG6RR-qoz4)
+[![Quotex Affiliate Bot](https://img.youtube.com/vi/8zG6RR-qoz4/0.jpg)](https://www.youtube.com/watch?v=8zG6RR-qoz4)
