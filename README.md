@@ -40,7 +40,14 @@ Our bot ensures exclusive access for your affiliate users while maintaining stri
 * Scalability: The bot can handle a large number of requests efficiently, making it ideal for growing your affiliate base.
 ## Let The Bot Work For You
 #### Get started with our automated bot and enjoy a one-month free trial! To set up the bot for your Quotex affiliate program, 
-### follow this link: [Fiverr Bot Setup](https://www.fiverr.com/s/0yDLKr) or contact us on Telegram: [Telegram Bot Developer](https://telegram.me/tradingbot_developer).
+### Follow this link: [Fiverr Bot Setup](https://www.fiverr.com/s/0yDLKr) or contact us on Telegram: [Telegram Bot Developer](https://telegram.me/tradingbot_developer).
 
 Let's streamline your Quotex affiliate experience with this efficient and effective solution. Start using our bot today and see the difference it makes!
 
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
