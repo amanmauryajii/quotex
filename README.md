@@ -42,3 +42,6 @@ Call to Action
 Get started with our automated bot and enjoy a one-month free trial! To set up the bot for your Quotex affiliate program, follow this link: Fiverr Bot Setup or contact us on Telegram: Telegram Bot Developer.
 
 Let's streamline your Quotex affiliate experience with this efficient and effective solution. Start using our bot today and see the difference it makes!
+
+
+<span style="font-size:0.5em;">Text goes here</span>
